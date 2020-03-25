@@ -1,0 +1,8 @@
+必须先安装jdk，配置环境变量再安装MyEclipse
+
+另外需要安装tomcat和配置tomcat的环境变量
+
+数据库必须先安装mysql，再安装MySQL gui来管理数据库
+
+
+webstorm主要是做前端开发的，比较方便
